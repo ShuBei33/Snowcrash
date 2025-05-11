@@ -48,8 +48,8 @@ This repository includes completed solutions for:
 
 Built with patience and pain by:
 
-- **Enora STOFFEL**
-- **Hugo LEVI**
+- **Enora S.**
+- **Hugo L.**
 
 Both students at **42 Paris**, currently working toward the *RNCP Level 7 – Systems & Networks* certification.
 
